@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 traan duc nam
 afshuasuhfi;jaks
 asfbasdihfkasjfjas
 fasdfhbasdjfnasdlfjbsadfja
 thu xem nhe co bi thay doi khong
+=======
+>>>>>>> parent of ec83388... tranucnam da thay doi
